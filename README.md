@@ -1,4 +1,4 @@
-# PetCare — Prototipo v6
+# PetCare — Prototipo v8
 
 Cambios principales:
 - Tofi usa una puerta de entrada estricta: una especie sola nunca selecciona un artículo.
