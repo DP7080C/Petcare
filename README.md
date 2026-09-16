@@ -1,4 +1,4 @@
-# PetCare — Prototipo académico v9
+# PetCare — Prototipo académico v10
 
 ## Qué conserva
 - Biblioteca cerrada de 50 artículos.
